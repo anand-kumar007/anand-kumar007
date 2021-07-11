@@ -3,7 +3,7 @@
 
 
 ## WebDeveloper and ML Enthusiast
-<img src="https://blog.lifescitrc.org/pecop/wp-content/uploads/sites/6/2020/06/OnlineInstruction.gif" alt="moto" width="1000" height="400" />
+<img src="https://github.com/anand-kumar007/anand-kumar007/blob/master/profile.jpg" alt="moto" width="800" height="400" />
 
 ![Profile views](https://gpvc.arturio.dev/anand-kumar007) 
 [![Github](https://img.shields.io/github/followers/anand-kumar007?label=Follow&style=social)](https://github.com/anand-kumar007)
