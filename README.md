@@ -3,7 +3,7 @@
 
 
 ## WebDeveloper and ML Enthusiast
-<img src="https://github.com/anand-kumar007/anand-kumar007/blob/master/profile.jpg" alt="moto" width="800" height="400" />
+<!-- <img src="https://github.com/anand-kumar007/anand-kumar007/blob/master/profile.jpg" alt="moto" width="800" height="400" /> -->
 
 ![Profile views](https://gpvc.arturio.dev/anand-kumar007) 
 [![Github](https://img.shields.io/github/followers/anand-kumar007?label=Follow&style=social)](https://github.com/anand-kumar007)
@@ -47,8 +47,8 @@ I am Interesed in Web Development and Machine Learning. :gem:
 ### Reach me through ⁉️
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anand-kumar007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anand-kumar-620aa41b0)  
   
- ### My Stats :crystal_ball:
- ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-kumar007&theme=cobalt&show_icons=true)
+<!--  ### My Stats :crystal_ball:
+ ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-kumar007&theme=cobalt&show_icons=true) -->
  
  ### My Work On Github :octocat:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kumar007)](https://github.com/anuraghazra/github-readme-stats)
