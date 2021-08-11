@@ -18,11 +18,12 @@ I am Interesed in Web Development and Machine Learning. :gem:
 
 
 ## :aerial_tramway: SKILLS
-* 🕸️ Front End (Html,Css,Javascript)
+* 🕸️ Front End (Html,Css,Bootstrap,Javascript)
+* 🌀 Backend (Flask,Nodejs)
 * 🐼 Data Science (DataViz and Analysis)
 * :atom: Machine learning and Deep Learning
-* 🆑 Linux
-* 👽 Programming Languages (C,C++,Python)
+* 🆑 Linux (shell scripts)
+* 👽 Programming Languages (C,C++,Python,Java)
 
 
 ## :dart: Languages and Tools:
@@ -33,6 +34,9 @@ I am Interesed in Web Development and Machine Learning. :gem:
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+ 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+ 
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="HTML_CSS" height="40" style="vertical-align:top; margin:4px">
  
