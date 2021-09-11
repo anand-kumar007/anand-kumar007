@@ -2,12 +2,8 @@
 ## Hey folks! 👋, Anand Here
 
 
-## WebDeveloper and ML Enthusiast
+##### WebDeveloper and ML Enthusiast
 <!-- <img src="https://github.com/anand-kumar007/anand-kumar007/blob/master/profile.jpg" alt="moto" width="800" height="400" /> -->
-
-![Profile views](https://gpvc.arturio.dev/anand-kumar007) 
-[![Github](https://img.shields.io/github/followers/anand-kumar007?label=Follow&style=social)](https://github.com/anand-kumar007)
-
 ## About me
 Hey there ! welcome to my profile. 
 
@@ -17,13 +13,19 @@ Pursuing my B.tech in IT branch :round_pushpin:
 I am Interesed in Web Development and Machine Learning. :gem:
 
 
-## :aerial_tramway: SKILLS
+![Profile views](https://gpvc.arturio.dev/anand-kumar007) 
+[![Github](https://img.shields.io/github/followers/anand-kumar007?label=Follow&style=social)](https://github.com/anand-kumar007)
+
+## :aerial_tramway: Top SKILLS
 * 🕸️ Front End (Html,Css,Bootstrap,Javascript)
 * 🌀 Backend (Flask,Nodejs)
 * 🐼 Data Science (DataViz and Analysis)
 * :atom: Machine learning and Deep Learning
 * 🆑 Linux (shell scripts)
 * 👽 Programming Languages (C,C++,Python,Java)
+* ⚖️ Data Structure and Algorithms
+* 🉑 Operating System and DBMS
+* 💢 Computer Networks and DBMS(MySQL especially)
 
 
 ## :dart: Languages and Tools:
@@ -48,15 +50,16 @@ I am Interesed in Web Development and Machine Learning. :gem:
  
 </p>
 
-### Reach me through ⁉️
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anand-kumar007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anand-kumar-620aa41b0)  
+### Contact me on Linkedin...
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anand-kumar007)] -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anand-kumar-620aa41b0)
   
 <!--  ### My Stats :crystal_ball:
  ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-kumar007&theme=cobalt&show_icons=true) -->
  
- ### My Work On Github :octocat:
+<!--  ### My Work On Github :octocat:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kumar007)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 
 
