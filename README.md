@@ -25,8 +25,7 @@ I am Interesed in Web Development and Machine Learning. :gem:
 * 👽 Programming Languages (C,C++,Python,Java)
 * ⚖️ Data Structure and Algorithms
 * 🉑 Operating System and DBMS
-* 💢 Computer Networks and DBMS(MySQL especially)
-
+* 💢 Computer Networks 
 
 ## :dart: Languages and Tools:
 <p align="center">
