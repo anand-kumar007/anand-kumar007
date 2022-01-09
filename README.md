@@ -13,7 +13,7 @@ Pursuing my B.tech in IT branch :round_pushpin:
 I am Interesed in Web Development and Machine Learning. :gem:
 
 
-![Profile views](https://gpvc.arturio.dev/anand-kumar007) 
+
 [![Github](https://img.shields.io/github/followers/anand-kumar007?label=Follow&style=social)](https://github.com/anand-kumar007)
 
 ## :aerial_tramway: Top SKILLS
