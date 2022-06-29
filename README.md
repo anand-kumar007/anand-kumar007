@@ -10,7 +10,7 @@ Hey there ! welcome to my profile.
 My Name is Anand and I am currently studying at the National Institute of Technology Karnataka
 Pursuing my B.tech in IT branch and minor in Management.  :round_pushpin:
 
-I am Interesed in Web Development and Machine Learning. :gem:
+I am Interesed in Web Development and AI. :gem:
 
 
 
