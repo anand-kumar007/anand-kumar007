@@ -18,7 +18,7 @@ I am Interesed in Artifical Intelligence and Web Development. :gem:
 * 🕸️ Front End (Html,Css,Bootstrap,Javascript)
 * 🌀 Backend (Flask,Nodejs)
 * 🐼 Data Science (DataViz and Analysis)
-* :robot: Machine learning and Deep Learning(Worked with Keras,Tensorflow and Pytorch Libraries)
+* :robot: Machine learning and Deep Learning(Worked with Keras,Tensorflow and Pytorch Frameworks)
 * :computer: Problem Solving ([Leetcode](https://leetcode.com/sam_8873/) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/sam_8873/practice/))
 * 🆑 Linux (Shell scripts)
 * 👽 Programming Languages (C,C++,Python,Java)
