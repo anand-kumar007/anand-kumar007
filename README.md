@@ -10,7 +10,7 @@ Hey there ! welcome to my profile.
 My Name is Anand and I am currently studying at the National Institute of Technology Karnataka
 Pursuing my B.tech in IT branch and minor in Management.  :round_pushpin:
 
-I am Interesed in Web Development and AI. :gem:
+I am Interesed in Artifical Intelligence and Web Development. :gem:
 
 
 
@@ -18,9 +18,9 @@ I am Interesed in Web Development and AI. :gem:
 * 🕸️ Front End (Html,Css,Bootstrap,Javascript)
 * 🌀 Backend (Flask,Nodejs)
 * 🐼 Data Science (DataViz and Analysis)
-* :robot: Machine learning and Deep Learning
-* :computer: Problem Solving 
-* 🆑 Linux (shell scripts)
+* :robot: Machine learning and Deep Learning(Worked with Keras,Tensorflow and Pytorch Libraries)
+* :computer: Problem Solving ([Leetcode](https://leetcode.com/sam_8873/) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/sam_8873/practice/))
+* 🆑 Linux (Shell scripts)
 * 👽 Programming Languages (C,C++,Python,Java)
 * ⚖️ Data Structure and Algorithms
 * 🉑 Operating System and DBMS
