@@ -2,7 +2,7 @@
 ## :wave: Hey folks,  Anand Here :hugs:	
 
 
-##### Web Developer and ML Enthusiast
+##### Web Developer and AI Enthusiast
 <!-- <img src="https://github.com/anand-kumar007/anand-kumar007/blob/master/profile.jpg" alt="moto" width="800" height="400" /> -->
 ## :writing_hand: About me
 Hey there ! welcome to my profile. 
